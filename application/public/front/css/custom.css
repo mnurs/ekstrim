@@ -1,0 +1,48 @@
+.cus-bg-img {
+    background-image: url('../assets/images/breadcrumb.png');
+}
+
+.cus-bg-user-img {
+    background-image: url('../user/images/breadcrumb.png');
+}
+
+.primary-table .action-area li .cus-w100-pointer {
+    width:100px;
+    cursor:pointer;
+}
+
+.primary-form .profile-image-area .profile-image img.cus-doctor-img-edit {
+    height: 100px; 
+    width: 100px;
+    object-fit: cover;
+}
+
+.primary-table .action-area li .cus-w100 {
+    width:100px;
+}
+
+.cus-pl0 {
+    padding-left: 0;
+}
+
+.cus-pdf-w100 {
+    width:100px;
+}
+
+.section-title .cus-category-name {
+    font-size: 3rem; 
+    color: #081839;
+}
+.sidebar-widget .contact-widget .media-body h4 {
+    color: var(--color-one);
+}
+.sidebar-widget .contact-widget .media-body span {
+    color: var(--color-one);
+}
+.sidebar-widget .contact-widget .icon {
+	padding-right: 1.5rem;
+	border-right: 1px solid var(--color-one);
+}
+.sidebar-widget .contact-widget .icon i {
+    color: var(--color-one);
+}
